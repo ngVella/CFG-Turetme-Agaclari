@@ -1,0 +1,16 @@
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\bin\Debug\net5.0\CFG_Uretme_Agaclari.exe
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\bin\Debug\net5.0\CFG_Uretme_Agaclari.deps.json
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\bin\Debug\net5.0\CFG_Uretme_Agaclari.runtimeconfig.json
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\bin\Debug\net5.0\CFG_Uretme_Agaclari.runtimeconfig.dev.json
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\bin\Debug\net5.0\CFG_Uretme_Agaclari.dll
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\bin\Debug\net5.0\CFG_Uretme_Agaclari.pdb
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.csproj.AssemblyReference.cache
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.AssemblyInfoInputs.cache
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.AssemblyInfo.cs
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.csproj.CoreCompileInputs.cache
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.dll
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\refint\CFG_Uretme_Agaclari.dll
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.pdb
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\CFG_Uretme_Agaclari.genruntimeconfig.cache
+C:\Users\59s59\Desktop\CFG_Uretme_Agaclari\CFG_Uretme_Agaclari\obj\Debug\net5.0\ref\CFG_Uretme_Agaclari.dll
