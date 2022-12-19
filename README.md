@@ -9,9 +9,7 @@ Verilen CFG’ye göre Toplam dil ağacını üreterek; dili oluşturan kelimele
 CFG; S -> aa|bX|aXX,	X- > ab|b
 
 İçin Üretilen Kelimeler şunlardır:
-
 aa, bab, bb, aabab, aabb, abab, abb 
 
 Tekrarlanan  kelimeler şunlardır: 
-
 aabab, abab, aabb, abb 
