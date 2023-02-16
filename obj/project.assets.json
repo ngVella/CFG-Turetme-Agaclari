@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\59s59\\Desktop\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari.csproj",
+      "projectUniqueName": "D:\\Dökümanlarım\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari.csproj",
       "projectName": "CFG_Uretme_Agaclari",
-      "projectPath": "C:\\Users\\59s59\\Desktop\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari.csproj",
+      "projectPath": "D:\\Dökümanlarım\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari.csproj",
       "packagesPath": "C:\\Users\\59s59\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\59s59\\Desktop\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari\\obj\\",
+      "outputPath": "D:\\Dökümanlarım\\CFG_Uretme_Agaclari\\CFG_Uretme_Agaclari\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\59s59\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
